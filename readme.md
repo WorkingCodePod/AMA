@@ -14,7 +14,7 @@ You can [**Ask us a Question**](../../issues/new) by creating an issue in this r
 
 Anything means _anything_ - Personal questions. Making and spending money. Work. Life. Coding. Workflow. Setups.
 
-## A little about us
+## A little about us 🪂 🏋🏻‍♂️ 🏃‍♀️ 👨🏻‍🍳
 
 If you want to go more in depth than what follows, we did two episodes of our "origin stories" ([Part 1: Ben and Tim](https://workingcode.dev/episodes/007-origin-stories-pt1/) -- [Part 2: Carol and Adam](https://workingcode.dev/episodes/008-origin-stories-pt2/)).
 
