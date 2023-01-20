@@ -1,12 +1,4 @@
-# Working Code 💯th Episode AMA
-
-The [Working Code Podcast](https://workingcode.dev) is doing an "AMA" (Ask me (us) anything) combined with a [Hot Ones](https://www.youtube.com/playlist?list=PLAzrgbu8gEMLFtbpun9yIX-01zTpx5oxJ) inspired hot-sauce challenge for our upcoming 100th episode. We're calling it our...
-
-## 🔥 🥵 🌶️ 100th Episode Spicetacular! 🌶️ 🥵 🔥
-
-We'll be recording it on (approximately) **October 27th, 2022** and it will air on **November 9th, 2022**.
-
-In addition to our usual audio recording, we intend to get it all on video and post that for your viewing pleasure, too.
+# Working Code AMA
 
 ## Ask us anything!
 
